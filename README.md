@@ -1,73 +1,113 @@
-# Welcome to your Lovable project
+# Welcome to the MGVs Space (Lovable Project)
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**Repo:** https://github.com/MGVs009/mgvs-space  
+**Lovable URL:** https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-## How can I edit this code?
+MGVs Space is the official website for **MGVs — Mentoring & Growing Visionaries**, a youth-led non-profit project focused on making education more accessible, inclusive, and adapted to real people — not “average students”.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## About MGVs
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+We’re **MGVs**, a non-profit founded by a group of Portuguese teenagers who believe education should be open and truly work for everyone.
 
-Changes made via Lovable will be committed automatically to this repo.
+Our goal is to promote **accessibility** in two major ways:
 
-**Use your preferred IDE**
+- **Learning accessibility** — helping education adapt to different realities, neurodivergence, and learning styles  
+- **Tool + resource accessibility** — making sure people can actually *reach* the materials and tech they need  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+We also explore how technology can help create a more inclusive and adapted society.  
+We want to break barriers, open opportunities, and build a future where anyone, anywhere, can learn in their own way.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+> **Everyone is too different for the world not to adapt.**
 
-Follow these steps:
+---
+
+## Our Projects
+
+### 🦽 The “WillChair” Project
+The **WillChair** project began as a challenge proposed by one of our robotics teachers, who has limited mobility and uses a wheelchair.
+
+He asked us to develop a **rear camera system** for his wheelchair to assist with navigation.
+
+We enthusiastically accepted the challenge and decided to go further:  
+we designed modular upgrades for the wheelchair, including:
+
+- a built-in speaker  
+- independent internet connectivity  
+- modular expansion upgrades for future accessibility tools  
+
+➡️ *(Click here to learn more — replace with your link)*
+
+---
+
+### 🧠 Our approach to cognitive evaluation
+This project began from our frustration with the imprecision of traditional IQ tests.
+
+We wanted an **open, mathematically sound** model — one that includes:
+
+- creativity  
+- practical skills  
+- neurodivergence  
+- and above all: **social adversity + context**  
+
+Inspired by the **Multidimensional Human Development Index**, we designed a flexible cognitive index that adjusts for educational inequality and systemic context.
+
+Because this project is more theoretical than something like WillChair, we’ve invited professionals to validate and refine our work.  
+As we make progress, we will update this page with new developments.
+
+➡️ *(Click here to learn more — replace with your link)*
+
+---
+
+### 🎨 “3xpr3ssionist”
+**COMING SOON...**
+
+---
+
+## Sponsorship + Legal
+
+MGVs Space is fiscally sponsored by **The Hack Foundation (d.b.a. Hack Club)**, a 501(c)(3) nonprofit.
+
+**EIN:** 81-2908499
+
+> Click the HCB logo to visit our HCB page! *(replace with your link)*
+
+---
+
+# How can I edit this code?
+
+There are several ways to edit this application.
+
+## ✅ Use Lovable (fastest)
+Visit the project page and start prompting:
+
+https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+
+Changes made via Lovable are committed automatically to this repo.
+
+---
+
+## ✅ Use your preferred IDE (local development)
+
+The only requirement is having **Node.js & npm** installed.
+
+Recommended install method (nvm):  
+https://github.com/nvm-sh/nvm#installing-and-updating
+
+### Local setup steps
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Step 1: Clone the repository
+git clone https://github.com/MGVs009/mgvs-space.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Enter the project folder
+cd mgvs-space
 
-# Step 3: Install the necessary dependencies.
+# Step 3: Install dependencies
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Run the dev server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
