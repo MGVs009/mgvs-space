@@ -3,7 +3,6 @@
 ## Project info
 
 **Repo:** https://github.com/MGVs009/mgvs-space  
-**Lovable URL:** https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
 MGVs Space is the official website for **MGVs — Mentoring & Growing Visionaries**, a youth-led non-profit project focused on making education more accessible, inclusive, and adapted to real people — not “average students”.
 
